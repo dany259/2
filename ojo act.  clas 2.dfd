@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+35
+'cuantos mililitros desea comprar?'
+5
+1
+4
+mili
+6
+3
+3
+sub
+9
+mili*4500
+1
+i
+8
+sub*0.19
+1
+t
+5
+sub+i
+4
+1
+16
+'la salida es',t
+1
